@@ -4,6 +4,10 @@
   font-weight: normal;
   margin: 0;
   text-decoration: none;
+  color: #2f80ed;
+  display: flex;
+  justify-content: flex-start;
+
 }
 
 .khan__buy-link:hover {
