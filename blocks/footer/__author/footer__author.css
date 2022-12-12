@@ -1,0 +1,10 @@
+.footer__author {
+  display: flex;
+  justify-content: flex-end;
+  margin: 18px 0px;
+  width: auto;
+  font-size: 18px;
+  font-weight: normal;
+  line-height: 25px;
+  color: white;
+}
